@@ -4,7 +4,7 @@ This is a simple password generator web application built with HTML, CSS, and Ja
 
 ## Live Preview
 ```bash
-https://mdashraful305.github.io/Password-Generator/
+https://github.com/KujiraWeb3/PwdGen
 ```
 
 ## Installation
